@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ヒューマンエラー",
+  "base_artist": "PompadollS",
+  "createdAt": "2025-12-17T13:13:37.174346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒューマンエラー",
+      "artist": "キズ",
+      "has_synced": true,
+      "path": "select/01_ヒューマンエラー_キズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒューマンエラー (Human Error)",
+      "artist": "キズ (KIZU)",
+      "has_synced": true,
+      "path": "select/02_ヒューマンエラー_(Human_Error)_キズ_(KIZU).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒューマンエラー",
+      "artist": "ネコプラ∞",
+      "has_synced": false,
+      "path": "select/03_ヒューマンエラー_ネコプラ∞.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒューマンエラー",
+      "artist": "PompadollS",
+      "has_synced": false,
+      "path": "select/pl_01_ヒューマンエラー_PompadollS.txt"
+    }
+  ]
+}
